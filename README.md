@@ -1,10 +1,9 @@
 # SETUP
-- conda create -n renre python=3.8
-- conda activate renre
+- Requires python>=3.8
 - pip install -r requirements.txt
 
 # Running tests
 - pytest tests
 
-# Running risk models
+# Simulating risk models
 - python main.py
